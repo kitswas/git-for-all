@@ -54,3 +54,5 @@ Many companies use git for their internal projects.
 If you are a music creator or a graphic artist or a writer or a translator, you will encounter git at some point in your career, _especially_ if you are working closely with programmers.
 
 **Notice:** Work in progress.
+
+[Start](./Chapters/chapter1.md)
