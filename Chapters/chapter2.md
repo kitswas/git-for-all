@@ -10,7 +10,8 @@ Every time you want to test out something, you can create a new branch.
 If you don't like the changes, you can delete the branch.  
 Satisfied? Merge the branches.
 
-Keep in mind that you can switch between branches at any time. In gaming terms, you don't need to complete a side quest to move forward with the main quest.
+In gaming terms, each branch represents a quest.  
+You don't need to complete a side quest to move forward with the main quest. You can have any number of ongoing quests.
 
 ## Merging strategies
 
@@ -28,7 +29,7 @@ Rewrite history. Make it look like the branch was created from the latest commit
 
 ### Squash and merge
 
-> What if I do not want the commits I had creaed while testing out the changes?
+> What if I do not want to keep the commits I had created while testing out the changes?
 
 Hammer (`squash`) them into a single commit and merge them.
 
