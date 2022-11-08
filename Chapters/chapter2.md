@@ -4,7 +4,7 @@ Have you ever wondered _what if_ you had done something differently? What if you
 
 That's where branches come in. They allow you to explore different paths and make different decisions. You can even go back to the original path and make a different decision.
 
-Commits in git exist on branches. Branches in git are like timelines. They are a sequence of commits. You can switch between branches to work on different timelines. You can also merge branches to combine timelines.
+Commits in git exist on branches. Branches in git are like timelines. They are a sequence of commits. You can switch between branches to work on different timelines. You can also `merge` branches to combine timelines.
 
 Every time you want to test out something, you can create a new branch.  
 If you don't like the changes, you can delete the branch.  
@@ -16,7 +16,7 @@ Keep in mind that you can switch between branches at any time. In gaming terms, 
 
 ### Merge commit
 
-When you merge two branches, git creates a new commit that combines the changes from both branches. This is called a merge commit and .
+When you merge two branches, git creates a new commit that combines the changes from both branches. This is called a merge commit.
 
 ### Rebase
 
