@@ -23,3 +23,15 @@ For this you need to tell git to create (`initialize`) a git repository in the f
 
 This will create a hidden folder named `.git` in the folder. This is the repository and it contains _almost_ everything git needs to know.
 
+> Great! What now?
+
+Have you ever played video games? Remember the save button?
+
+Make whatever changes you want to the files in the folder. When you are done ~~playing~~, press the save (`commit`) button.
+
+> ???! That's...
+
+That's it. A couple of points:
+
+1. You need to preview (`stage`) the changes before you can commit them.
+2. You need to provide a name (`message`) for the save.
