@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="1024" height="768" inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)" sodipodi:docname="branches.svg" version="1.1" viewBox="0 0 1024 768" xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<sodipodi:namedview bordercolor="#000000" borderopacity="0.25" inkscape:current-layer="layer1" inkscape:cx="317.5" inkscape:cy="399.5" inkscape:deskcolor="#d1d1d1" inkscape:document-units="px" inkscape:pagecheckerboard="0" inkscape:pageopacity="0.0" inkscape:showpageshadow="2" inkscape:window-height="1017" inkscape:window-maximized="1" inkscape:window-width="1920" inkscape:window-x="-8" inkscape:window-y="-8" inkscape:zoom="1" pagecolor="#ffffff" showgrid="true" showguides="false">
+		<inkscape:grid type="xygrid"/>
+	</sodipodi:namedview>
+	<defs>
+		<marker id="c" overflow="visible" inkscape:collect="always" inkscape:isstock="true" inkscape:stockid="Dot" markerHeight="5.6666665" markerWidth="5.6666665" orient="auto" preserveAspectRatio="xMidYMid" viewBox="0 0 5.6666667 5.6666667">
+			<path transform="scale(.5)" d="m5 0c0 2.76-2.24 5-5 5s-5-2.24-5-5 2.3-5 5-5c2.76 0 5 2.24 5 5z" fill="context-stroke" fill-rule="evenodd" stroke="context-stroke" stroke-width="1pt" sodipodi:nodetypes="sssss"/>
+		</marker>
+		<marker id="e" overflow="visible" inkscape:collect="always" inkscape:isstock="true" inkscape:stockid="TriangleStart" markerHeight="6.155385" markerWidth="5.3244081" orient="auto-start-reverse" preserveAspectRatio="xMidYMid" viewBox="0 0 5.3244081 6.1553851">
+			<path transform="scale(.5)" d="m5.77 0-8.65 5v-10z" fill="context-stroke" fill-rule="evenodd" stroke="context-stroke" stroke-width="1pt"/>
+		</marker>
+		<marker id="h" overflow="visible" inkscape:collect="always" inkscape:isstock="true" inkscape:stockid="TriangleStart" markerHeight="6.155385" markerWidth="5.3244081" orient="auto-start-reverse" preserveAspectRatio="xMidYMid" viewBox="0 0 5.3244081 6.1553851">
+			<path transform="scale(.5)" d="m5.77 0-8.65 5v-10z" fill="context-stroke" fill-rule="evenodd" stroke="context-stroke" stroke-width="1pt"/>
+		</marker>
+		<radialGradient id="a" cx="128" cy="128" r="105" gradientUnits="userSpaceOnUse" xlink:href="#f" inkscape:collect="always"/>
+		<linearGradient id="f" inkscape:collect="always">
+			<stop stop-color="#0aff26" offset=".53319"/>
+			<stop stop-color="#0aff26" stop-opacity="0" offset="1"/>
+		</linearGradient>
+		<marker id="b" overflow="visible" inkscape:collect="always" inkscape:isstock="true" inkscape:stockid="Dot" markerHeight="5.6666665" markerWidth="5.6666665" orient="auto" preserveAspectRatio="xMidYMid" viewBox="0 0 5.6666667 5.6666667">
+			<path transform="scale(.5)" d="m5 0c0 2.76-2.24 5-5 5s-5-2.24-5-5 2.3-5 5-5c2.76 0 5 2.24 5 5z" fill="context-stroke" fill-rule="evenodd" stroke="context-stroke" stroke-width="1pt" sodipodi:nodetypes="sssss"/>
+		</marker>
+		<marker id="g" overflow="visible" inkscape:collect="always" inkscape:isstock="true" inkscape:stockid="TriangleStart" markerHeight="6.155385" markerWidth="5.3244081" orient="auto-start-reverse" preserveAspectRatio="xMidYMid" viewBox="0 0 5.3244081 6.1553851">
+			<path transform="scale(.5)" d="m5.77 0-8.65 5v-10z" fill="context-stroke" fill-rule="evenodd" stroke="context-stroke" stroke-width="1pt"/>
+		</marker>
+		<marker id="d" overflow="visible" inkscape:collect="always" inkscape:isstock="true" inkscape:stockid="TriangleStart" markerHeight="6.155385" markerWidth="5.3244081" orient="auto-start-reverse" preserveAspectRatio="xMidYMid" viewBox="0 0 5.3244081 6.1553851">
+			<path transform="scale(.5)" d="m5.77 0-8.65 5v-10z" fill="context-stroke" fill-rule="evenodd" stroke="context-stroke" stroke-width="1pt"/>
+		</marker>
+	</defs>
+	<g inkscape:groupmode="layer" inkscape:label="Layer 1">
+		<g transform="translate(-25.5,232)" inkscape:label="branch">
+			<g transform="translate(106,232)" inkscape:label="commit">
+				<circle cx="128" cy="128" r="100" fill="url(#a)" stroke="#002eb8" stroke-width="10" style="paint-order:normal" inkscape:label="circle"/>
+				<text x="128" y="144.2684" fill="#000000" font-family="sans-serif" font-size="53.333px" stroke-width="0" text-align="center" text-anchor="middle" inkscape:label="message" xml:space="preserve"><tspan x="128" y="144.2684" sodipodi:role="line">commit</tspan><tspan x="128" y="210.93503" sodipodi:role="line">A</tspan></text>
+			</g>
+			<g transform="translate(397,232)" inkscape:label="commit">
+				<circle cx="128" cy="128" r="100" fill="url(#a)" stroke="#002eb8" stroke-width="10" style="paint-order:normal" inkscape:label="circle"/>
+				<text x="128" y="144.2684" fill="#000000" font-family="sans-serif" font-size="53.333px" stroke-width="0" text-align="center" text-anchor="middle" inkscape:label="message" xml:space="preserve"><tspan x="128" y="144.2684" sodipodi:role="line">commit</tspan><tspan x="128" y="210.93503" sodipodi:role="line">B</tspan></text>
+			</g>
+			<g transform="translate(697,232)" inkscape:label="commit">
+				<circle cx="128" cy="128" r="100" fill="url(#a)" stroke="#002eb8" stroke-width="10" style="paint-order:normal" inkscape:label="circle"/>
+				<text x="128" y="144.2684" fill="#000000" font-family="sans-serif" font-size="53.333px" stroke-width="0" text-align="center" text-anchor="middle" inkscape:label="message" xml:space="preserve"><tspan x="128" y="144.2684" sodipodi:role="line">commit</tspan><tspan x="128" y="210.93503" sodipodi:role="line">C</tspan></text>
+			</g>
+			<path d="m334 360h91" fill="none" marker-end="url(#g)" marker-start="url(#b)" stroke="#ffcc01" stroke-width="2.5" inkscape:connection-end="#commit-6-0" inkscape:connection-start="#commit-2" inkscape:connector-curvature="0" inkscape:connector-type="polyline"/>
+			<path d="m625 360h100" fill="none" marker-end="url(#d)" marker-start="url(#b)" stroke="#fc0" stroke-width="2.5" inkscape:connection-end="#commit-1-5" inkscape:connection-start="#commit-6-0" inkscape:connector-curvature="0" inkscape:connector-type="polyline"/>
+		</g>
+		<g transform="translate(-31,-170)" inkscape:label="branch">
+			<g id="i" transform="translate(106,232)" inkscape:label="commit">
+				<circle id="j" cx="128" cy="128" r="100" fill="url(#a)" stroke="#002eb8" stroke-width="10" style="paint-order:normal" inkscape:label="circle"/>
+				<text x="128" y="144.2684" fill="#000000" font-family="sans-serif" font-size="53.333px" stroke-width="0" text-align="center" text-anchor="middle" inkscape:label="message" xml:space="preserve"><tspan x="128" y="144.2684" sodipodi:role="line">commit</tspan><tspan x="128" y="210.93503" sodipodi:role="line">1</tspan></text>
+			</g>
+			<g transform="translate(397,232)" inkscape:label="commit">
+				<circle cx="128" cy="128" r="100" fill="url(#a)" stroke="#002eb8" stroke-width="10" style="paint-order:normal" inkscape:label="circle"/>
+				<text x="128" y="144.2684" fill="#000000" font-family="sans-serif" font-size="53.333px" stroke-width="0" text-align="center" text-anchor="middle" inkscape:label="message" xml:space="preserve"><tspan x="128" y="144.2684" sodipodi:role="line">commit</tspan><tspan x="128" y="210.93503" sodipodi:role="line">2</tspan></text>
+			</g>
+			<g transform="translate(697,232)" inkscape:label="commit">
+				<circle cx="128" cy="128" r="100" fill="url(#a)" stroke="#002eb8" stroke-width="10" style="paint-order:normal" inkscape:label="circle"/>
+				<text x="128" y="144.2684" fill="#000000" font-family="sans-serif" font-size="53.333px" stroke-width="0" text-align="center" text-anchor="middle" inkscape:label="message" xml:space="preserve"><tspan x="128" y="144.2684" sodipodi:role="line">commit</tspan><tspan x="128" y="210.93503" sodipodi:role="line">3</tspan></text>
+			</g>
+			<path d="m334 360h91" fill="none" marker-end="url(#h)" marker-start="url(#c)" stroke="#ffcc01" stroke-width="2.5" inkscape:connection-end="#commit-6" inkscape:connection-start="#commit" inkscape:connector-curvature="0" inkscape:connector-type="polyline"/>
+			<path d="m625 360h100" fill="none" marker-end="url(#e)" marker-start="url(#c)" stroke="#fc0" stroke-width="2.5" inkscape:connection-end="#commit-1" inkscape:connection-start="#commit-6" inkscape:connector-curvature="0" inkscape:connector-type="polyline"/>
+		</g>
+		<text x="499" y="349" fill="#a3a3a3" font-family="sans-serif" font-size="53.333px" stroke="#000000" text-align="center" text-anchor="middle" inkscape:label="branch X" xml:space="preserve"><tspan x="499" y="349" sodipodi:role="line">Branch X</tspan></text>
+		<text x="498.52002" y="468" fill="#a3a3a3" font-family="sans-serif" font-size="53.333px" stroke="#000000" text-align="center" text-anchor="middle" inkscape:label="branch Y" xml:space="preserve"><tspan x="498.52002" y="468" sodipodi:role="line">Branch Y</tspan></text>
+	</g>
+</svg>

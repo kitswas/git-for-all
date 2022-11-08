@@ -6,6 +6,8 @@ That's where branches come in. They allow you to explore different paths and mak
 
 Commits in git exist on branches. Branches in git are like timelines. They are a sequence of commits. You can switch between branches to work on different timelines. You can also `merge` branches to combine timelines.
 
+![Branches](./images/branches.svg)
+
 Every time you want to test out something, you can create a new branch.  
 If you don't like the changes, you can delete the branch.  
 Satisfied? Merge the branches.
