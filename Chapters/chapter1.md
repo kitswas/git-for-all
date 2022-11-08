@@ -45,3 +45,5 @@ The git equivalent of loading a save is called `checkout`.
 1. Working directory - This is the folder (`MyProject`) that you see in your file explorer. It contains all the files that you are working on.  
 2. Staging area - This is the preview area where you can select the changes that you want to commit.
 3. Repository - This is the hidden folder `.git` that contains all the information about the project.
+
+[Previous](../README.md) | [Next](./chapter2.md)
