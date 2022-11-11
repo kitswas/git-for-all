@@ -6,10 +6,10 @@
 	</sodipodi:namedview>
 	<defs>
 		<marker style="stroke:#f00;fill:#fc0" id="Round_Marker" overflow="visible" inkscape:collect="always" inkscape:isstock="true" inkscape:stockid="Dot" markerHeight="5.6666665" markerWidth="5.6666665" orient="auto" preserveAspectRatio="xMidYMid" viewBox="0 0 5.6666667 5.6666667">
-			<path transform="scale(.5)" d="m5 0c0 2.76-2.24 5-5 5s-5-2.24-5-5 2.3-5 5-5c2.76 0 5 2.24 5 5z" fill="context-stroke" fill-rule="evenodd" stroke="context-stroke" stroke-width="1pt" sodipodi:nodetypes="sssss"/>
+			<path transform="scale(.5)" d="m5 0c0 2.76-2.24 5-5 5s-5-2.24-5-5 2.3-5 5-5c2.76 0 5 2.24 5 5z" fill-rule="evenodd" stroke-width="1pt" sodipodi:nodetypes="sssss"/>
 		</marker>
 		<marker style="stroke:#f00;fill:#fc0" id="Right_Arrow_Marker" overflow="visible" inkscape:collect="always" inkscape:isstock="true" inkscape:stockid="TriangleStart" markerHeight="6.155385" markerWidth="5.3244081" orient="auto-start-reverse" preserveAspectRatio="xMidYMid" viewBox="0 0 5.3244081 6.1553851">
-			<path transform="scale(.5)" d="m5.77 0-8.65 5v-10z" fill="context-stroke" fill-rule="evenodd" stroke="context-stroke" stroke-width="1pt"/>
+			<path transform="scale(.5)" d="m5.77 0-8.65 5v-10z" fill-rule="evenodd" stroke-width="1pt"/>
 		</marker>
 		<radialGradient id="a" cx="128" cy="128" r="105" gradientUnits="userSpaceOnUse" xlink:href="#f" inkscape:collect="always"/>
 		<linearGradient id="f" inkscape:collect="always">
