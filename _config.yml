@@ -1,0 +1,29 @@
+title: Git for All
+
+description: > # this means to ignore newlines until "show_excerpts:"
+  A quick and short guide to Git aimed primarily at non-developers. 
+  https://github.com/kitswas/git-for-all
+  Edits, suggestions and reviews are welcome.
+
+show_excerpts: true # set to true to show excerpts on the homepage
+
+# Minima date format
+# refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
+minima:
+  date_format: "%b %-d, %Y"
+
+  # generate social links in footer
+  social_links:
+    - { platform: github,         user_url: "https://github.com/jekyll/minima" }
+
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
+#header_pages:
+# - about.md
+
+# Build settings
+theme: minima
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
