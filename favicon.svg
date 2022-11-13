@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="h" width="512px" height="512px" inkscape:export-filename="favicon.png" inkscape:export-xdpi="24" inkscape:export-ydpi="24" inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)" sodipodi:docname="favicon.svg" version="1.1" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<sodipodi:namedview bordercolor="#000000" borderopacity="0.25" inkscape:current-layer="layer1" inkscape:cx="301.47578" inkscape:cy="256" inkscape:deskcolor="#d1d1d1" inkscape:document-units="px" inkscape:pagecheckerboard="0" inkscape:pageopacity="0.0" inkscape:showpageshadow="2" inkscape:window-height="1017" inkscape:window-maximized="1" inkscape:window-width="1920" inkscape:window-x="-8" inkscape:window-y="-8" inkscape:zoom="1.5722656" pagecolor="#ffffff" showgrid="true">
+		<inkscape:grid type="xygrid"/>
+	</sodipodi:namedview>
+	<defs>
+		<radialGradient id="a" cx="128" cy="128" r="105" gradientTransform="matrix(.60952 0 0 .60952 177.98 5.981)" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#0aff26" offset=".53319"/>
+			<stop stop-color="#0aff26" stop-opacity="0" offset="1"/>
+		</radialGradient>
+		<radialGradient id="b" cx="128" cy="128" r="105" gradientTransform="matrix(.60952 0 0 .60952 345.98 165.98)" gradientUnits="userSpaceOnUse" inkscape:collect="always" xlink:href="#a"/>
+		<radialGradient id="g" cx="128" cy="128" r="105" gradientTransform="matrix(.60952 0 0 .60952 345.98 355.98)" gradientUnits="userSpaceOnUse" inkscape:collect="always" xlink:href="#a"/>
+		<radialGradient id="f" cx="128" cy="128" r="105" gradientTransform="matrix(.60952 0 0 .60952 9.981 185.98)" gradientUnits="userSpaceOnUse" inkscape:collect="always">
+			<stop stop-color="#00ff1e" offset=".53"/>
+			<stop stop-color="#ffe70a" stop-opacity=".5" offset=".9"/>
+			<stop stop-color="#0aff26" stop-opacity="0" offset="1"/>
+		</radialGradient>
+		<radialGradient id="e" cx="128" cy="128" r="105" gradientTransform="matrix(.60952 0 0 .60952 9.981 365.98)" gradientUnits="userSpaceOnUse" inkscape:collect="always" xlink:href="#a"/>
+		<radialGradient id="d" cx="256" cy="84" r="64" gradientTransform="translate(0 -15)" gradientUnits="userSpaceOnUse" inkscape:collect="always" xlink:href="#a"/>
+	</defs>
+	<g inkscape:groupmode="layer" inkscape:label="Layer 1">
+		<g fill="none" stroke-width="32">
+			<path d="m298.21 112.97 83.578 87.061" stroke="#1aafe5" inkscape:connection-end="#circle990" inkscape:connection-start="#c" inkscape:connector-curvature="16" inkscape:connector-type="polyline"/>
+			<path d="m424 304.95v68.095" stroke="#1aafe5" inkscape:connection-end="#circle1005" inkscape:connector-curvature="16" inkscape:connector-type="orthogonal"/>
+			<path d="m363.17 247.35-214.33 12.97" stroke="#ff9800" stroke-opacity=".9" inkscape:connection-end="#circle1009" inkscape:connector-curvature="16" inkscape:connector-type="polyline"/>
+			<path d="m88 324.95v58.095" stroke="#1aafe5" inkscape:connection-end="#circle1028" inkscape:connector-curvature="16" inkscape:connector-type="orthogonal"/>
+			<path d="m216.22 115.18-88.432 102.64" stroke="#1aafe5" inkscape:connection-end="#circle1009" inkscape:connection-start="#c" inkscape:connector-curvature="16" inkscape:connector-type="polyline"/>
+		</g>
+		<g stroke-width="6.0952">
+			<circle id="c" cx="256" cy="69" r="60.952" fill="url(#d)" stroke="#2e00b8" style="paint-order:normal" inkscape:label="commit"/>
+			<circle cx="424" cy="244" r="60.952" fill="url(#b)" stroke="#002eb8" style="paint-order:normal" inkscape:label="commit"/>
+			<circle cx="424" cy="434" r="60.952" fill="url(#g)" stroke="#002eb8" style="paint-order:normal" inkscape:label="commit"/>
+			<circle cx="88" cy="264" r="60.952" fill="url(#f)" stroke="#e50000" style="paint-order:normal" inkscape:label="commit"/>
+			<circle cx="88" cy="444" r="60.952" fill="url(#e)" stroke="#002eb8" style="paint-order:normal" inkscape:label="commit"/>
+		</g>
+	</g>
+</svg>
