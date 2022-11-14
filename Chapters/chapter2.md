@@ -43,4 +43,4 @@ Git will try to include changes from both branches.
 However, if the changes overlap, git will not be able to merge them.  
 Such a situation is called a merge conflict.
 
-[Previous](./chapter1.md) | [Next](./chapter3.md)
+[Previous](./chapter1.md){: .btn} [Next](./chapter3.md){: .btn}

@@ -55,4 +55,4 @@ If you are a music creator or a graphic artist or a writer or a translator, you 
 
 **Notice: Work in progress.**
 
-| [Start](./Chapters/chapter1.md) |
+[Start](./Chapters/chapter1.md){: .btn}
