@@ -1,0 +1,24 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+@media (prefers-color-scheme: dark) {
+  body {
+    color: #737373;
+  }
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    color: #bbb;
+  }
+  blockquote {
+    color: #999;
+  }
+  #main_content_wrap {
+    background: #2f2f2f;
+  }
+}
