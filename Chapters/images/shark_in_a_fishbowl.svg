@@ -52,19 +52,19 @@
        inkscape:collect="always"
        id="linearGradient5724">
       <stop
-         style="stop-color:#ffffff;stop-opacity:1;"
+         style="stop-color:#ffffff;stop-opacity:1.0;"
          offset="0"
          id="stop5722" />
       <stop
-         style="stop-color:#00abff;stop-opacity:1;"
+         style="stop-color:#00abff;stop-opacity:0.5;"
          offset="0.5"
          id="stop5730" />
       <stop
-         style="stop-color:#00cccc;stop-opacity:1;"
-         offset="0.89999998"
+         style="stop-color:#00cccc;stop-opacity:0.5;"
+         offset="0.90"
          id="stop8121" />
       <stop
-         style="stop-color:#00ffaa;stop-opacity:1;"
+         style="stop-color:#00ffaa;stop-opacity:0.5;"
          offset="1"
          id="stop5720" />
     </linearGradient>
@@ -73,7 +73,7 @@
        id="linearGradient967">
       <stop
          style="stop-color:#216f97;stop-opacity:1;"
-         offset="0.16000003"
+         offset="0.16"
          id="stop963" />
       <stop
          style="stop-color:#164a64;stop-opacity:1;"
