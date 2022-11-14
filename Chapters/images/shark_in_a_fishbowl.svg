@@ -37,6 +37,23 @@
   <defs
      id="defs44">
     <linearGradient
+       inkscape:collect="always"
+       id="linearGradient2824">
+      <stop
+         style="stop-color:#68b6de;stop-opacity:1;"
+         offset="0"
+         id="stop2820" />
+      <stop
+         style="stop-color:#164a64;stop-opacity:1;"
+         offset="1"
+         id="stop2822" />
+    </linearGradient>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect2597"
+       is_visible="true"
+       lpeversion="1" />
+    <linearGradient
        id="linearGradient4527"
        inkscape:swatch="solid">
       <stop
@@ -164,6 +181,15 @@
        gradientTransform="matrix(1,0,0,0.08880354,0,131.38542)"
        gradientUnits="userSpaceOnUse"
        spreadMethod="pad" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2824"
+       id="linearGradient2826"
+       x1="275.33008"
+       y1="531.13574"
+       x2="482.58984"
+       y2="531.13574"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <g
      inkscape:groupmode="layer"
@@ -233,9 +259,14 @@
          fill="url(#d)"
          stroke="#676767"
          style="paint-order:markers stroke fill"
-         inkscape:label="fin"
+         inkscape:label="right fin"
          sodipodi:nodetypes="ccccccc"
          id="path56" />
+      <path
+         id="path2595"
+         style="fill:url(#linearGradient2826);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-linejoin:round;stroke-miterlimit:11.4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         inkscape:label="left fin"
+         d="M 275.33203 466.25195 C 275.33362 466.25446 275.33435 466.25726 275.33594 466.25977 C 276.80128 468.57349 278.18284 470.81483 279.57812 473.06836 A 423.9451 262.01251 0 0 0 432.42578 587.26758 C 452.84482 587.89999 477.25115 589.10874 482.50195 586.89453 C 436.07995 567.38771 389.44313 534.55779 355.28516 489.37305 C 345.80885 492.59119 335.32769 496.94848 329.08008 496.21094 C 313.56591 494.79108 285.28844 475.01315 275.33203 466.25195 z " />
       <path
          d="m344.94 250.77c-24.08 24.08-22.831 29.38-30.172 46.233-9.7033 22.276-12.368 54.478-9.0282 76.238 19.091 124.38 124.25 202.5 214.55 226.69 273.24 73.214 513.85-87.95 513.85-263.31 0-7.8925 10.307-20.484 10.307-52.274 0-16.686-13.091-53.795-32.136-56.799-0.3344 0-1.3828 1.91-1.3648 2.2438 0.7316 13.824 3.8967 43.046-4.2353 49.599-10.156 8.1837-21.427 1.9463-31.468-1.0601-39.998-11.976-80.756-26.779-120.79-37.504-73.334-19.65-129.72-36.306-31.097 3.0094 30.352 12.1 71.516 33.059 100.37 48.095 39.531 22.265 61.94 56.766 35.053 94.35-27.282 35.812-96.127 47.878-150.53 53.646-78.783 8.3535-174.45-20.636-237.69-76.718-10.212-9.0565-18.143-21.452-27.085-30.094-14.964-14.464-34.642-34.017-49.805-43.792-48.324-31.15-70.673-38.266-106.68-43.481-7.9192-1.1469-17.051 0-25.078 0"
          fill="url(#b)"
