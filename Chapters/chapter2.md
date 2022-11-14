@@ -42,3 +42,5 @@ Hammer (`squash`) them into a single commit and merge them.
 Git will try to include changes from both branches.  
 However, if the changes overlap, git will not be able to merge them.  
 Such a situation is called a merge conflict.
+
+[Previous](./chapter1.md) | [Next](./chapter3.md)
