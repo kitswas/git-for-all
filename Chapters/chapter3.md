@@ -47,3 +47,5 @@ Pull request -> A request to the owner of the upstream repository to pull your c
 The owner/maintainer of the upstream repository can then review your changes and merge or reject them.
 
 This concept is tied to forking. Hence, it is again not a git feature.
+
+![Collaboration](images/collaboration.svg)

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="j" width="1280px" height="720px" inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)" sodipodi:docname="collaboration.svg" version="1.1" viewBox="0 0 1280 720" xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<sodipodi:namedview bordercolor="#000000" borderopacity="0.25" inkscape:current-layer="layer1" inkscape:cx="508.43206" inkscape:cy="359.58188" inkscape:deskcolor="#d1d1d1" inkscape:document-units="px" inkscape:pagecheckerboard="0" inkscape:pageopacity="0.0" inkscape:showpageshadow="2" inkscape:window-height="1017" inkscape:window-maximized="1" inkscape:window-width="1920" inkscape:window-x="-8" inkscape:window-y="-8" inkscape:zoom="0.896875" pagecolor="#ffffff" showgrid="false" showguides="true"/>
+	<defs>
+		<marker id="i" overflow="visible" inkscape:collect="always" inkscape:isstock="true" inkscape:stockid="Arrow3" markerHeight="7" markerWidth="4.2071066" orient="auto-start-reverse" preserveAspectRatio="xMidYMid" viewBox="0 0 4.2071068 7">
+			<path transform="rotate(180 .125 0)" d="m3-3-3 3 3 3" fill="none" stroke="#f0f" stroke-linecap="round" sodipodi:nodetypes="ccc"/>
+		</marker>
+		<marker id="a" overflow="visible" inkscape:collect="always" inkscape:isstock="true" inkscape:stockid="Arrow3" markerHeight="7" markerWidth="4.2071066" orient="auto-start-reverse" preserveAspectRatio="xMidYMid" viewBox="0 0 4.2071068 7">
+			<path transform="rotate(180 .125 0)" d="m3-3-3 3 3 3" fill="none" stroke="#000" stroke-linecap="round" sodipodi:nodetypes="ccc"/>
+		</marker>
+	</defs>
+	<g inkscape:groupmode="layer" inkscape:label="Layer 1">
+		<circle id="f" cx="155" cy="155" r="50" fill="#0f0" stroke="#008000" stroke-linejoin="round" stroke-miterlimit="11.4" stroke-width="10" style="paint-order:markers stroke fill"/>
+		<use id="e" transform="translate(300)" xlink:href="#f"/>
+		<use id="d" transform="translate(300)" xlink:href="#e"/>
+		<use transform="translate(300)" xlink:href="#d"/>
+		<circle id="h" cx="255" cy="355" r="50" fill="#0ff" stroke="#008080" stroke-linejoin="round" stroke-miterlimit="11.4" stroke-width="10" style="paint-order:markers stroke fill"/>
+		<use id="c" transform="translate(250)" xlink:href="#h"/>
+		<use transform="translate(250)" xlink:href="#c"/>
+		<circle id="g" cx="255" cy="555" r="50" fill="#f00" stroke="#800000" stroke-linejoin="round" stroke-miterlimit="11.4" stroke-width="10" style="paint-order:markers stroke fill"/>
+		<use id="b" transform="translate(250)" xlink:href="#g"/>
+		<use transform="translate(250)" xlink:href="#b"/>
+		<g font-family="sans-serif" font-size="53.333px" stroke-linejoin="round" stroke-miterlimit="11.4" stroke-width="5" text-anchor="middle">
+			<text x="158.9799" y="77.646645" fill="#00ff00" stroke="#008000" text-align="center" style="paint-order:markers stroke fill" xml:space="preserve"><tspan x="158.9799" y="77.646645" sodipodi:role="line">upstream</tspan></text>
+			<text x="113.35325" y="361.80664" fill="#00ffff" stroke="#008080" text-align="center" style="paint-order:markers stroke fill" xml:space="preserve"><tspan x="113.35325" y="361.80664" sodipodi:role="line">origin</tspan></text>
+			<text x="95.619934" y="643.03333" fill="#ff0000" stroke="#800000" text-align="center" style="paint-order:markers stroke fill" xml:space="preserve"><tspan x="95.619934" y="643.03333" sodipodi:role="line">local</tspan></text>
+		</g>
+		<g fill="none" stroke-linejoin="round" stroke-width="5">
+			<g stroke="#000">
+				<path d="m205 155h40c5 0 10 5 10 10v140" marker-end="url(#a)" inkscape:connection-end="#circle4030" inkscape:connection-start="#path3464" inkscape:connector-curvature="10" inkscape:connector-type="orthogonal"/>
+				<path d="m205 155h250" marker-end="url(#a)" inkscape:connection-end="#use4003" inkscape:connection-start="#path3464" inkscape:connector-curvature="10" inkscape:connector-type="orthogonal"/>
+				<path d="m305 355h200" marker-end="url(#a)" inkscape:connection-end="#use4248" inkscape:connection-start="#circle4030" inkscape:connector-curvature="10" inkscape:connector-type="orthogonal"/>
+				<path d="m505 355h250" marker-end="url(#a)" inkscape:connection-end="#use4250" inkscape:connection-start="#use4248" inkscape:connector-curvature="10" inkscape:connector-type="orthogonal"/>
+				<path d="m255 405v100" marker-end="url(#a)" inkscape:connection-end="#circle4303" inkscape:connection-start="#circle4030" inkscape:connector-curvature="10" inkscape:connector-type="orthogonal"/>
+				<path d="m305 555h200" marker-end="url(#a)" inkscape:connection-end="#use4317" inkscape:connection-start="#circle4303" inkscape:connector-curvature="10" inkscape:connector-type="orthogonal"/>
+				<path d="m505 555h250" marker-end="url(#a)" inkscape:connection-end="#use4332" inkscape:connection-start="#use4317" inkscape:connector-curvature="10" inkscape:connector-type="orthogonal"/>
+				<path d="m455 155h300" marker-end="url(#a)" inkscape:connection-end="#use4011" inkscape:connection-start="#use4003" inkscape:connector-curvature="10" inkscape:connector-type="orthogonal"/>
+				<path d="m755 155h300" marker-end="url(#a)" inkscape:connection-end="#use4020" inkscape:connection-start="#use4011" inkscape:connector-curvature="10" inkscape:connector-type="orthogonal"/>
+			</g>
+			<path d="m755 355h290c5 0 10-5 10-10v-190" marker-end="url(#i)" stroke="#f0f" inkscape:connection-end="#use4020" inkscape:connection-start="#use4250" inkscape:connector-curvature="10" inkscape:connector-type="orthogonal"/>
+			<path d="m755 555v-200" marker-end="url(#a)" stroke="#000" inkscape:connection-end="#use4250" inkscape:connection-start="#use4332" inkscape:connector-curvature="10" inkscape:connector-type="orthogonal"/>
+		</g>
+		<text x="1046.4731" y="293.03329" fill="#ff00ff" font-family="sans-serif" font-size="53.333px" stroke="#800080" stroke-linejoin="round" stroke-miterlimit="11.4" stroke-width="5" text-align="center" text-anchor="middle" style="paint-order:markers stroke fill" xml:space="preserve"><tspan x="1046.4731" y="293.03329" sodipodi:role="line">Pull request</tspan></text>
+	</g>
+</svg>
