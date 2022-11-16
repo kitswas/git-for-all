@@ -1,12 +1,12 @@
 # Working remotely
 
-Now that you have a basic understanding of Git, you are probably feeling like a shark in a fishbowl.
+Now that you have a basic understanding of git, you are probably feeling like a shark in a fishbowl.
 
 ![Shark in a fishbowl](images/shark_in_a_fishbowl.svg)
 
-> I have heard of people using Git to contribute to open source projects and for collaboration, but am not sure how to do that.
+> I have heard of people using git to contribute to open source projects and for collaboration, but am not sure how to do that.
 
-Till now, you have been learning how to work with Git on your local machine.  
+Till now, you have been learning how to work with git on your local machine.  
 In this chapter, you will learn how to work with remote repositories.
 
 ## Remote repositories
@@ -15,7 +15,7 @@ Remote repositories (`remotes`) are the repositories that are accessible over a 
 
 When you clone a repository, you get a local repository with the remote repository added as a remote named `origin`. You can also add remotes to a local repository.
 
-Git supports the following operations on remotes:
+git supports the following operations on remotes:
 
 - `fetch` - Downloads the latest changes from the remote repository.
 - `pull` - Downloads the latest changes from the remote repository and merges them into the current branch. It is a combination of `fetch` and `merge`.
@@ -29,13 +29,21 @@ Do not let the word `remote` confuse you. **You can have a repository on your lo
 
 ### Forking
 
-Forking is a way to contribute to a project without having write access to the repository. _It is not a Git feature, but a feature of various popular hosting services._
+Forking is a way to contribute to a project without having write access to the repository. _It is not a git feature, but a feature of various popular hosting services._
 
 When you fork a repository, you create a copy of the repository on your account. You can then make changes to your copy. You can also send a pull request to the original repository, often referred to as the `upstream` repository, to contribute your changes.
 
 ### Cloning
 
 While most popular hosting services provide a web interface for browsing and editing files, sometimes you might want to work offline on your local machine. If no web interface is available, this becomes a necessity.  
-Instead of downloading the files and managing them manually, you can tell Git to copy (`clone`) the repository.
+Instead of downloading the files and managing them manually, you can tell git to copy (`clone`) the repository.
 
-To clone a repository, you need to tell Git the URL of the remote repository and where you want Git to create the local repository.
+To clone a repository, you need to tell git the URL of the remote repository and where you want git to create the local repository.
+
+### Pull requests
+
+Pull request -> A request to the owner of the upstream repository to pull your changes.
+
+The owner/maintainer of the upstream repository can then review your changes and merge or reject them.
+
+This concept is tied to forking. Hence, it is again not a git feature.
