@@ -23,7 +23,7 @@ Git supports the following operations on remotes:
 
 A remote repository can be hosted on a server or on a service like GitHub, GitLab, Bitbucket, etc.
 
-Do not let the word `remote` confuse you. **You can have a repository on your local machine as a `remote`.** One use case for this would be if you want to keep a backup of your repository on a different or an external hard drive. See [this answer on StackOverflow](https://stackoverflow.com/a/34507038/8659747) for more details.
+Do not let the word `remote` confuse you. **You can have a repository on your local machine as a `remote`.** One use case for this would be if you want to keep a backup of your repository on a different or an external hard drive. See [this answer on StackOverflow](https://stackoverflow.com/a/34507038/8659747) for details.
 
 ## Collaboration
 

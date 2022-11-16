@@ -26,7 +26,7 @@ When you merge two branches, git creates a new commit that combines the changes 
 > Merge commits are ugly. I don't want them.
 
 When you merge two branches, git can rebase the branch.  
-Re base => Change the base, i.e. the starting point.  
+Re base -> Change the base, i.e. the starting point.  
 Rewrite history. Make it look like the branch was created from the latest commit of the branch you are merging into.
 
 ### Squash and merge
