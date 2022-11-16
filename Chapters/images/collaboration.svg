@@ -7,7 +7,7 @@
 			<path transform="rotate(180 .125 0)" d="m3-3-3 3 3 3" fill="none" stroke="#f0f" stroke-linecap="round" sodipodi:nodetypes="ccc"/>
 		</marker>
 		<marker id="a" overflow="visible" inkscape:collect="always" inkscape:isstock="true" inkscape:stockid="Arrow3" markerHeight="7" markerWidth="4.2071066" orient="auto-start-reverse" preserveAspectRatio="xMidYMid" viewBox="0 0 4.2071068 7">
-			<path transform="rotate(180 .125 0)" d="m3-3-3 3 3 3" fill="none" stroke="#000" stroke-linecap="round" sodipodi:nodetypes="ccc"/>
+			<path transform="rotate(180 .125 0)" d="m3-3-3 3 3 3" fill="none" stroke="#777" stroke-linecap="round" sodipodi:nodetypes="ccc"/>
 		</marker>
 	</defs>
 	<g inkscape:groupmode="layer" inkscape:label="Layer 1">
@@ -27,7 +27,7 @@
 			<text x="95.619934" y="643.03333" fill="#ff0000" stroke="#800000" text-align="center" style="paint-order:markers stroke fill" xml:space="preserve"><tspan x="95.619934" y="643.03333" sodipodi:role="line">local</tspan></text>
 		</g>
 		<g fill="none" stroke-linejoin="round" stroke-width="5">
-			<g stroke="#000">
+			<g stroke="#777">
 				<path d="m205 155h40c5 0 10 5 10 10v140" marker-end="url(#a)" inkscape:connection-end="#circle4030" inkscape:connection-start="#path3464" inkscape:connector-curvature="10" inkscape:connector-type="orthogonal"/>
 				<path d="m205 155h250" marker-end="url(#a)" inkscape:connection-end="#use4003" inkscape:connection-start="#path3464" inkscape:connector-curvature="10" inkscape:connector-type="orthogonal"/>
 				<path d="m305 355h200" marker-end="url(#a)" inkscape:connection-end="#use4248" inkscape:connection-start="#circle4030" inkscape:connector-curvature="10" inkscape:connector-type="orthogonal"/>
@@ -39,7 +39,7 @@
 				<path d="m755 155h300" marker-end="url(#a)" inkscape:connection-end="#use4020" inkscape:connection-start="#use4011" inkscape:connector-curvature="10" inkscape:connector-type="orthogonal"/>
 			</g>
 			<path d="m755 355h290c5 0 10-5 10-10v-190" marker-end="url(#i)" stroke="#f0f" inkscape:connection-end="#use4020" inkscape:connection-start="#use4250" inkscape:connector-curvature="10" inkscape:connector-type="orthogonal"/>
-			<path d="m755 555v-200" marker-end="url(#a)" stroke="#000" inkscape:connection-end="#use4250" inkscape:connection-start="#use4332" inkscape:connector-curvature="10" inkscape:connector-type="orthogonal"/>
+			<path d="m755 555v-200" marker-end="url(#a)" stroke="#777" inkscape:connection-end="#use4250" inkscape:connection-start="#use4332" inkscape:connector-curvature="10" inkscape:connector-type="orthogonal"/>
 		</g>
 		<text x="1046.4731" y="293.03329" fill="#ff00ff" font-family="sans-serif" font-size="53.333px" stroke="#800080" stroke-linejoin="round" stroke-miterlimit="11.4" stroke-width="5" text-align="center" text-anchor="middle" style="paint-order:markers stroke fill" xml:space="preserve"><tspan x="1046.4731" y="293.03329" sodipodi:role="line">Pull request</tspan></text>
 	</g>
