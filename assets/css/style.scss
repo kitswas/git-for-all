@@ -5,7 +5,7 @@
 
 .btn {
   color: #eee;
-  background: #0f79d0;
+  background: #0f7ed9;
   padding: 10px;
   margin: 0;
   border-radius: 10px;
@@ -14,7 +14,7 @@
 
 @media (prefers-color-scheme: dark) {
   body {
-    color: #737373;
+    color: #bbb;
   }
   h1,
   h2,
@@ -22,7 +22,7 @@
   h4,
   h5,
   h6 {
-    color: #bbb;
+    color: #ddd;
   }
   blockquote {
     color: #999;
@@ -31,7 +31,7 @@
     background: #2f2f2f;
   }
   .btn {
-    color: #0f79d0;
+    color: #0f7ed9;
     background: #111;
   }
 }
