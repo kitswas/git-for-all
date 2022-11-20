@@ -3,9 +3,17 @@
 
 @import "{{ site.theme }}";
 
+#forkme_banner {
+  background: url('../images/blacktocat.png') #07c no-repeat 95% 50%;
+}
+
+a {
+  color: #06c;
+}
+
 .btn {
-  color: #eee;
-  background: #0f7ed9;
+  color: #fff;
+  background: #07c;
   padding: 10px;
   margin: 0;
   border-radius: 10px;
@@ -30,8 +38,11 @@
   #main_content_wrap {
     background: #2f2f2f;
   }
+  a {
+    color: #39f;
+  }
   .btn {
-    color: #0f7ed9;
+    color: #39f;
     background: #111;
   }
 }
