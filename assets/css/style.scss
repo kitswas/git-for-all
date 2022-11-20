@@ -46,3 +46,11 @@ a {
     background: #111;
   }
 }
+
+#project_title {
+  @extend h1;
+}
+
+#project_tagline {
+  @extend h2;
+}
