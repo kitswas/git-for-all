@@ -3,6 +3,14 @@
 
 @import "{{ site.theme }}";
 
+#forkme_banner {
+  background: url('../images/blacktocat.png') #07c no-repeat 95% 50%;
+}
+
+a {
+  color: #06c;
+}
+
 .btn {
   color: #eee;
   background: #0f7ed9;
