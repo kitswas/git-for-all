@@ -49,3 +49,5 @@ The owner/maintainer of the upstream repository can then review your changes and
 This concept is tied to forking. Hence, it is again not a git feature.
 
 ![Collaboration](images/collaboration.svg)
+
+[Previous](./chapter3.md){: .btn} [About](../ABOUT.md){: .btn}
