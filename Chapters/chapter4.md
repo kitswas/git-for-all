@@ -50,4 +50,4 @@ This concept is tied to forking. Hence, it is again not a git feature.
 
 ![Collaboration](images/collaboration.svg)
 
-[Previous](./chapter3.md){: .btn} [About](../ABOUT.md){: .btn}
+[Previous](./chapter3.md){: .btn} [About this guide](./ABOUT.md){: .btn}

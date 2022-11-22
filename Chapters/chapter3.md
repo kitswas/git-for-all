@@ -2,7 +2,7 @@
 
 > Earlier, you mentioned something about `checkout` being the git equivalent of loading a save. How does that work?
 
-`checkout` is a command that allows you to switch between different commits. It is also used to switch between branches.
+`checkout` allows you to switch between different commits. It is also used to switch between branches.
 
 ## Switching branches
 
