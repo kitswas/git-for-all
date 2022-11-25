@@ -14,6 +14,10 @@ Even when writing this, I was tempted over and over again to sneak in a line of 
 
 Now, I'm not saying that you can't use the command line. I'm just saying that you don't have to.
 
+I want to prevent the following scenario:
+
+[![XKCD 1597](https://imgs.xkcd.com/comics/git.png)](https://xkcd.com/1597/)
+
 A few GUI git clients I recommend _(I expect Linux users to know their way around the command line)_ -
 
 1. [GitHub Desktop](https://desktop.github.com/) -  
