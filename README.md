@@ -53,4 +53,4 @@ Knowledge of git is a must for anyone who wants to contribute to open source pro
 Many companies use git for their internal projects.  
 If you are a music creator or a graphic artist or a writer or a translator, you will encounter git at some point in your career, _especially_ if you are working closely with programmers.
 
-[Start reading](./Chapters/chapter1.md){: .btn} [About this guide](./ABOUT.md){: .btn}
+[Start reading](./chapters/chapter1.md){: .btn} [About this guide](./ABOUT.md){: .btn}
