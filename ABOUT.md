@@ -4,8 +4,6 @@ permalink: /about.html
 
 # About this guide
 
-This guide is a work in progress.
-
 ## Why yet another git resource?
 
 There are many git resources out there. But most, if not all, of them assume that the user is familiar with the command line.
