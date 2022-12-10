@@ -20,5 +20,5 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
 
-url: "https://kitswas.github.io/git-for-all/" # the base hostname & protocol of the site
+url: "https://kitswas.github.io" # the base hostname & protocol of the site
 # for jekyll-sitemap
