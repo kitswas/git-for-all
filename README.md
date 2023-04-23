@@ -16,6 +16,9 @@ To answer this, I need to ask you a few questions:
     - Assigment1.py
     - Assigment1-my_name.py
     - Assigment1-I-submitted-this.py
+    - Document1.doc
+    - Document1-draft-2.doc
+    - Document1-final.doc
 
     But they are just different revisions of the same file?
 
@@ -36,7 +39,12 @@ To answer this, I need to ask you a few questions:
 
     > Okay, _maybe_ I should try this out.
 
-    Good call. If it doesn't work out, you can try those newer backup solutions that offer all these. Many internally use git. You'll be paying for the convenience, though.
+    Good call. If it doesn't work out, you can try those newer backup solutions that offer all these. Many internally use git-like technologies. You'll be paying for the convenience, though.
+
+3. Do you write computer programs or work with software developers?
+
+    If your answer is yes, then this is a must-read for you. Especially if you are just starting out.  
+    This guide is beginner-friendly. After all, everyone was a beginner once.
 
 ## What is Git?
 
