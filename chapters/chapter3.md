@@ -6,7 +6,7 @@
 
 ## Switching branches
 
-Each branch represents a storyline. Wheen you switch to (`checkout`) a branch, you are loading the save from the latest commit on that branch.
+Each branch represents a storyline. When you switch to (`checkout`) a branch, you are loading the save from the latest commit on that branch.
 
 For those of you who have played video games, this is like continuing after switching to a different save slot.
 

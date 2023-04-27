@@ -13,7 +13,7 @@ In this chapter, you will learn how to work with remote repositories.
 
 Remote repositories (`remotes`) are the repositories that are accessible over a network. They can exist somewhere on the internet, an office server or even your personal device. You can push to remote repositories to share your work with others and pull from them to get work from others.
 
-When you clone a repository, you get a local repository with the remote repository added as a remote named `origin`. You can also add remotes to a local repository.
+When you clone a repository, you get a local repository with the remote repository added as a remote named `origin`. You can also add _(multiple)_ remotes to a local repository.
 
 git supports the following operations on remotes:
 
@@ -40,7 +40,7 @@ Instead of downloading the files and managing them manually, you can tell git to
 
 To clone a repository, you need to tell git the URL of the remote repository and where you want git to create the local repository.
 
-### Pull requests
+### Pull/Merge requests
 
 Pull request -> A request to the owner of the upstream repository to pull your changes.
 

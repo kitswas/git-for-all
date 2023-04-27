@@ -27,7 +27,7 @@ To answer this, I need to ask you a few questions:
 2. Do you often wish to shuttle through time to find a file that you deleted a long time ago?
 
     If your answer is yes, then this is for you. Remember, git can only help you with this in future if you set it up now. This is like insurance for your files.  
-    **Git is _not_ a file recovery program.**
+    However, **Git is _not_ a file recovery program.**
 
     > But wait, I keep backups of my files, so I can just restore them and be done with it.
 
@@ -56,8 +56,12 @@ Wikipedia, everyone's go-to source for quick definitions, [says](https://en.wiki
 
 > But I am not a programmer.
 
-Note the use of the word "usually" in the first sentence.  Git is not just for programmers. It is for anyone who wants to keep track of changes to files. It is for anyone who wants to collaborate with others on a project.  
-Knowledge of git is a must for anyone who wants to contribute to open source projects.  
+Note the use of the word "usually" in the first sentence.  Git is not just for programmers. It is for anyone who wants to -
+
+- keep track of changes to files,
+- collaborate with others on a project, or
+- contribute to open source projects, software or otherwise.
+
 Many companies use git for their internal projects.  
 If you are a music creator or a graphic artist or a writer or a translator, you will encounter git at some point in your career, _especially_ if you are working closely with programmers.
 
