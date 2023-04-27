@@ -56,7 +56,7 @@ Wikipedia, everyone's go-to source for quick definitions, [says](https://en.wiki
 
 > But I am not a programmer.
 
-Note the use of the word "usually" in the first sentence.  Git is not just for programmers. It is for anyone who wants to -
+Note the use of the word "usually" in the first sentence.  Git is not just for programmers. It is for _anyone_ who wants to -
 
 - keep track of changes to files,
 - collaborate with others on a project, or
