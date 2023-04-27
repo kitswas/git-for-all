@@ -50,4 +50,12 @@ This concept is tied to forking. Hence, it is again not a git feature.
 
 ![Collaboration](images/collaboration.svg)
 
+### Stashing
+
+The Stash is a feature that allows you to save your changes temporarily without committing them. You may think of it as a `quicksave` feature. It is similar to throwing your dirty clothes in the laundry basket/bag.
+
+It is useful when you want to switch to a different branch or have to pull changes from a remote repository but are not ready to commit your changes.
+
+As the details of stashing are beyond the scope of this guide, I'll leave you with a link to the [relevant section of the Pro Git book](https://git-scm.com/book/en/v2/Git-Tools-Stashing-and-Cleaning).
+
 [Previous](./chapter3.md){: .btn} [About this guide](../ABOUT.md){: .btn}
