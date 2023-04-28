@@ -1,8 +1,8 @@
 ---
 name: Wrong content report
-about: Report problems regarding the site here
-title: '[Technical Inaccuracies in the content]'
-labels: ''
+about: Report incorrect content in the guide here
+title: "[Technical Inaccuracies in the content]"
+labels: incorrect content
 assignees: ''
 
 ---
