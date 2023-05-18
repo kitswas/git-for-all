@@ -1,0 +1,10 @@
+#check git version
+git --version
+#initilize the git repo
+git init
+#add a file
+git add <file name>
+#clone repo
+git clone <repo url>
+#for create a branch in git 
+git branch <branch name>
