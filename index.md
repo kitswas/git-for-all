@@ -1,3 +1,7 @@
+---
+title: Home
+---
+
 # Is this for me?
 
 To answer this, I need to ask you a few questions:

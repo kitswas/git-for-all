@@ -1,5 +1,7 @@
 ---
 permalink: /about.html
+title: About
+description: About the Git For All website.
 ---
 
 # About this guide

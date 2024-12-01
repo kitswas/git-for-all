@@ -1,3 +1,8 @@
+---
+title: Chapter 2
+description: Git branches, merges and merging strategies.
+---
+
 # Branches
 
 Have you ever wondered _what if_ you had done something differently? What if you had made a different choice? What if you had taken a different path?

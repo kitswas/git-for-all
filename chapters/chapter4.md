@@ -1,3 +1,8 @@
+---
+title: Chapter 4
+description: Collaboration and working remotely with Git.
+---
+
 # Working remotely
 
 Now that you have a basic understanding of git, you are probably feeling like a shark in a fishbowl.

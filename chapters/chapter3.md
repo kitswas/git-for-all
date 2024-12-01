@@ -1,3 +1,8 @@
+---
+title: Chapter 3
+description: Git checkout - Loading/Restoring saves.
+---
+
 # Checking out (Loading saves)
 
 > Earlier, you mentioned something about `checkout` being the git equivalent of loading a save. How does that work?
